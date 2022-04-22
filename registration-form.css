@@ -1,0 +1,231 @@
+
+
+body{
+	background-color: lightblue;
+	margin: 10px 80px;
+}
+
+
+
+.toppart{
+	background-color: white;
+	border-top: 5px  solid blue;
+	font-size: 16px;
+    letter-spacing: .1px;
+    line-height: 24px;
+    font-weight: 400;
+    width: 100%;
+    word-break: break-word;
+    padding: 24px;
+       margin-bottom: 12px;
+       word-wrap: break-word;
+
+}
+/*
+
+div.maincontent{
+	background-color: white;
+	border-top: 5px  solid blue;
+	font-size: 16px;
+    letter-spacing: .1px;
+    line-height: 24px;
+    font-weight: 400;
+    width: 100%;
+    word-break: break-word;
+
+
+    
+       padding: 24px;
+       margin-bottom: 12px;
+       word-wrap: break-word;
+
+}
+
+*/
+
+.email{
+	background-color: white;
+	font-size: 16px;
+    letter-spacing: .1px;
+    line-height: 24px;
+    font-weight: 400;
+    width: 100%;
+    word-break: break-word;
+       padding: 24px;
+       margin-bottom: 12px;
+       word-wrap: break-word;
+   
+
+}
+
+
+
+   
+ .name{
+ 	 background-color: white;
+	font-size: 16px;
+    letter-spacing: .1px;
+    line-height: 24px;
+    font-weight: 400;
+    width: 100%;
+    word-break: break-word;
+       padding: 24px;
+       margin-bottom: 12px;
+       word-wrap: break-word;
+ }  
+
+ .phonenumber{
+ 	 background-color: white;
+	font-size: 16px;
+    letter-spacing: .1px;
+    line-height: 24px;
+    font-weight: 400;
+    width: 100%;
+    word-break: break-word;
+       padding: 24px;
+       margin-bottom: 12px;
+       word-wrap: break-word;
+ }
+
+ .nextofkin{
+ 	background-color: white;
+	font-size: 16px;
+    letter-spacing: .1px;
+    line-height: 24px;
+    font-weight: 400;
+    width: 100%;
+    word-break: break-word;
+       padding: 24px;
+       margin-bottom: 12px;
+       word-wrap: break-word;
+ }
+.fees{
+	background-color: white;
+	font-size: 16px;
+    letter-spacing: .1px;
+    line-height: 24px;
+    font-weight: 400;
+    width: 100%;
+    word-break: break-word;
+       padding: 24px;
+       margin-bottom: 12px;
+       word-wrap: break-word;
+}
+
+.persontopayfees{
+	 background-color: white;
+	font-size: 16px;
+    letter-spacing: .1px;
+    line-height: 24px;
+    font-weight: 400;
+    width: 100%;
+    word-break: break-word;
+       padding: 24px;
+       margin-bottom: 12px;
+       word-wrap: break-word;
+}
+
+.location{
+	background-color: white;
+	font-size: 16px;
+    letter-spacing: .1px;
+    line-height: 24px;
+    font-weight: 400;
+    width: 100%;
+    word-break: break-word;
+       padding: 24px;
+       margin-bottom: 12px;
+       word-wrap: break-word;
+}
+
+.school{
+	 background-color: white;
+	font-size: 16px;
+    letter-spacing: .1px;
+    line-height: 24px;
+    font-weight: 400;
+    width: 100%;
+    word-break: break-word;
+       padding: 24px;
+       margin-bottom: 12px;
+       word-wrap: break-word;
+}
+
+.reason{
+	background-color: white;
+	font-size: 16px;
+    letter-spacing: .1px;
+    line-height: 24px;
+    font-weight: 400;
+    width: 100%;
+    word-break: break-word;
+       padding: 24px;
+       margin-bottom: 12px;
+       word-wrap: break-word;
+}
+
+.hear{
+	background-color: white;
+	font-size: 16px;
+    letter-spacing: .1px;
+    line-height: 24px;
+    font-weight: 400;
+    width: 100%;
+    word-break: break-word;
+       padding: 24px;
+       margin-bottom: 12px;
+       word-wrap: break-word;
+}
+
+
+h5{
+	text-align: center;
+	font-family: 'Gideon Roman', cursive;
+
+}
+
+.flescontainer{
+	display: flex;
+     margin-bottom: 20px;
+	height: 100%;
+	width: 100%;
+	justify-content: space-between;
+}
+
+.flexcontainer div{
+	height: 30vh;
+	width: 70vh;
+	
+}
+
+
+
+
+
+
+
+
+
+/*
+
+div{
+	font-size: 16px;
+    letter-spacing: .1px;
+    line-height: 24px;
+    color: #202124;
+    font-weight: 400;
+    width: 100%;
+    word-break: break-word;
+
+
+    webkit-transition: background-color 200ms cubic-bezier(0,0,0.2,1);
+    transition: background-color 200ms cubic-bezier(0,0,0.2,1);
+    background-color: #fff;
+    border: 1px solid #dadce0;
+    border-radius: 8px;
+    margin-bottom: 12px;
+    padding: 24px;
+    page-break-inside: avoid;
+    word-wrap: break-word;
+}
+*/

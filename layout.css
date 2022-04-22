@@ -1,0 +1,38 @@
+.firstbox{
+	display: flex;
+	background-color: lightblue;
+	height: 20px;
+	margin-bottom: 20px;
+}
+
+.secondbox{
+	display: flex;
+	background-color: lightblue;
+	height: 200px;
+	margin-bottom: 20px;
+}
+
+
+.listbox {
+    display: flex;
+    flex-flow: row-reverse; wrap;
+	width: 100%;
+	justify-content: space-between;
+	text-align: center;
+}
+.listbox div{
+	
+	height: 30vh;
+	width: 70vh;
+	background-color: whitesmoke;
+
+}
+
+
+.lastbox{
+	margin-top: 40px;
+	display: flex;
+	background-color: lightblue;
+	height: 20px;
+}
+	
